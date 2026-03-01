@@ -1,6 +1,5 @@
 
 ---
-
 ### SQS — Simple Queue Service
 
 **What it is:** A durable message queue. Messages sit in the queue until a consumer pulls and processes them.
@@ -8,7 +7,6 @@
 **Model:** Pull-based (consumers poll the queue)
 
 **Use when:**
-
 - You need to decouple a producer from a consumer and don't care about speed, just reliability
 - You want to buffer work (e.g. image processing jobs, email sends)
 - You need exactly-once or at-least-once processing guarantees
@@ -16,7 +14,6 @@
 - You need dead-letter queues for failed messages
 
 **Key traits:**
-
 - Messages persist up to 14 days
 - FIFO queues available for ordering guarantees
 - Max message size 256KB

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Reply Prep/Comparisons/SQS vs SNS vs EventBridge.md",
+                "file": "DSA/Two Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQS vs SNS vs EventBridge"
+              "title": "Two Sum"
             }
           }
         ]
@@ -185,19 +185,24 @@
   },
   "active": "42c08e2b665961fc",
   "lastOpenFiles": [
-    "System Design/Reply Prep/Comparisons/Secrets Manager vs Parameter Store.md",
-    "System Design/Reply Prep/Comparisons/SQS vs SNS vs EventBridge.md",
-    "System Design/Reply Prep/Comparisons/S3 vs EFS vs EBS.md",
-    "System Design/Reply Prep/Comparisons/NAT Gateway vs NAT Instance.md",
-    "System Design/Reply Prep/Comparisons/Lambda vs ECS (Fargate).md",
-    "System Design/Reply Prep/Comparisons/ElastiCache (Redis) vs DynamoDB DAX - Caching.md",
-    "System Design/Reply Prep/Comparisons/EC2 vs Kubernetes.md",
-    "System Design/Reply Prep/Comparisons/ECS vs Elastic Beanstalk.md",
-    "System Design/Reply Prep/Comparisons/CodePipeline and CodeDeploy vs GitHub Actions.md",
     "System Design/Reply Prep/Comparisons/API Gateway vs ALB.md",
-    "System Design/Reply Prep/Comparisons/RDS vs DynamoDb.md",
-    "System Design/Reply Prep/Comparisons/CloudWatch vs Datadog vs Grafana.md",
+    "DSA/Two Sum.md",
+    "DSA",
+    "System Design/Reply Prep/Prep Questions/20 Questions.md",
+    "System Design/Reply Prep/Prep Questions/Java.md",
+    "System Design/Reply Prep/Prep Questions",
     "System Design/Reply Prep/Comparisons/CloudFront vs ALB.md",
+    "System Design/Reply Prep/Comparisons/CloudWatch vs Datadog vs Grafana.md",
+    "System Design/Reply Prep/Comparisons/CodePipeline and CodeDeploy vs GitHub Actions.md",
+    "System Design/Reply Prep/Comparisons/ECS vs Elastic Beanstalk.md",
+    "System Design/Reply Prep/Comparisons/ElastiCache (Redis) vs DynamoDB DAX - Caching.md",
+    "System Design/Reply Prep/Comparisons/Lambda vs ECS (Fargate).md",
+    "System Design/Reply Prep/Comparisons/NAT Gateway vs NAT Instance.md",
+    "System Design/Reply Prep/Comparisons/RDS vs DynamoDb.md",
+    "System Design/Reply Prep/Comparisons/S3 vs EFS vs EBS.md",
+    "System Design/Reply Prep/Comparisons/SQS vs SNS vs EventBridge.md",
+    "System Design/Reply Prep/Comparisons/Secrets Manager vs Parameter Store.md",
+    "System Design/Reply Prep/Comparisons/EC2 vs Kubernetes.md",
     "Mathematics/Statistics/Fundamentals of Statistics/1. Introduction to Statistics.md",
     "Mathematics/Statistics/Fundamentals of Statistics/0. MIT Open Courseware.md",
     "Mathematics/Mathematical Logic/A Concise Introduction to Mathematics/Chapter 1.md",
@@ -220,11 +225,6 @@
     "Pasted image 20260209055104.png",
     "Pasted image 20260209054346.png",
     "Security/Auth/JWT.md",
-    "Security/Auth",
-    "Security",
-    "System Design/Reply Prep/Design/Design a Payment System.md",
-    "System Design/Reply Prep/Accronyms.md",
-    "System Design/Reply Prep/Basics.md",
     "Pasted image 20251130095909.png"
   ]
 }
